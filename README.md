@@ -9,7 +9,3 @@ Visualizing Pookalam patterns digitally, celebrating tradition through code.
 
 Vibrant and colourful...
 
-
-I can also draft a “one-page competition-ready version” that’s more visually appealing, with emojis, colors, and short highlights so judges immediately see your innovation.
-
-Do you want me to make that version too?
