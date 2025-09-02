@@ -4,7 +4,7 @@ Designed a traditional Pookalam pattern virtually using Python Turtle. Merging a
 
 
 About My Project
-Draw concentric circles and vibrant petals.
+Concentric circles and vibrant petals.
 Vibrant and colourful...
 
 Visualizing Pookalam patterns digitally, celebrating tradition through code.
